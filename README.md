@@ -1,101 +1,70 @@
-<a name="readme-top"></a>
+# Getting Started with Create React App
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnoeUsi_VkeHREJrUmL6bmzMJxRwYdWED_tQbXy2aKLka_6kYPr9_5vaSYYCzv_WE1Lg&usqp=CAU" alt="Logo" width="80" height="80">
-  </a>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-  <h3 align="center">Student Management Application</h3>
-</div>
+## Available Scripts
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+In the project directory, you can run:
 
-<!-- ABOUT THE PROJECT -->
+### `npm start`
 
-## About The Project
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Front end designed by using React Framework. This gives us the ability to manage, modify the menu and employees, and collect information. User privileges allow us to place orders. The project has been written in accordance with the principles of Clean Code and good object-oriented programming practices.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### `npm test`
 
-### Built With
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- React
-- Js (Java Script)
+### `npm run build`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<!-- GETTING STARTED -->
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Software And Tools Required
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Git
-- Node.js
-- React
+### `npm run eject`
 
-### Prerequisites
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Things you need to use the software and how to install them.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Installation
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/P-A-Chathura-Madhava/CRUD-student-management-system-frontend.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm i
-   ```
+## Learn More
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-#### Some Screenshots of the project:
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-- Student List Page
-![image](/images/student-list.png)
+### Code Splitting
 
-- View Details Page
-![image](/images/student-details.png)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-- Save Student Page
-![image](/images/save-student.png)
+### Analyzing the Bundle Size
 
-- Update Student Page
-![image](/images/edit-student.png)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-<!-- CONTACT -->
+### Making a Progressive Web App
 
-## Contact
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-Chathura Madhava - [@https://www.linkedin.com/in/chathura-madhava-126465191/](https://www.linkedin.com/in/chathura-madhava-126465191/)
+### Advanced Configuration
 
-Project Link: [https://github.com/P-A-Chathura-Madhava/cafe_management-system_frontend.git](https://github.com/P-A-Chathura-Madhava/cafe_management-system_frontend.git)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
