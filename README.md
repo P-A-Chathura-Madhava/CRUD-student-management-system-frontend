@@ -78,7 +78,7 @@ Things you need to use the software and how to install them.
 
 #### Some Screenshots of the project:
 
-- Home Page Image 01
+- View Details Page
 <!-- ![image](/src/images/1.png) -->
 
 <!-- CONTACT -->
